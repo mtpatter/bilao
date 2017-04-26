@@ -1,3 +1,4 @@
+
 [bilao](https://github.com/mtpatter/bilao)
 ============
 
@@ -29,10 +30,10 @@ Examples
 
 ### Spark Streaming
 
-* [Streaming with Kafka](https://mtpatter.github.io/bilao/notebooks/html/01-spark-streaming-kafka.html)  ([ipynb](notebooks/01-spark-streaming-kafka.ipynb))
+* [Streaming from Kafka](https://mtpatter.github.io/bilao/notebooks/html/01-spark-streaming-kafka.html)  ([ipynb](notebooks/01-spark-streaming-kafka.ipynb))
 
-* [Streaming with Kafka using Avro](https://mtpatter.github.io/bilao/notebooks/html/01-spark-streaming-kafka-avro.html)  [ipynb](notebooks/01-spark-streaming-kafka-avro.ipynb) 
+* [Streaming from Kafka using Avro](https://mtpatter.github.io/bilao/notebooks/html/01-spark-streaming-kafka-avro.html)  ([ipynb](notebooks/01-spark-streaming-kafka-avro.ipynb))
 
 ### Spark Structured Streaming
 
-* [Structured Streaming with Kafka](https://mtpatter.github.io/bilao/notebooks/html/01-spark-struct-stream-kafka.html)  ([ipynb](notebooks/01-spark-struct-stream-kafka.ipynb))
+* [Structured Streaming from Kafka](https://mtpatter.github.io/bilao/notebooks/html/01-spark-struct-stream-kafka.html)  ([ipynb](notebooks/01-spark-struct-stream-kafka.ipynb))
