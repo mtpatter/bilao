@@ -30,10 +30,10 @@ Examples
 
 ### Spark Streaming
 
-* [Streaming from Kafka](https://mtpatter.github.io/bilao/notebooks/html/01-spark-streaming-kafka.html)  ([ipynb](notebooks/01-spark-streaming-kafka.ipynb))
+* [Streaming from Kafka](https://mtpatter.github.io/bilao/notebooks/html/01-spark-streaming-kafka.html)  ([ipynb](https://github.com/mtpatter/bilao/blob/master/notebooks/01-spark-streaming-kafka.ipynb))
 
-* [Streaming from Kafka using Avro](https://mtpatter.github.io/bilao/notebooks/html/01-spark-streaming-kafka-avro.html)  ([ipynb](notebooks/01-spark-streaming-kafka-avro.ipynb))
+* [Streaming from Kafka using Avro](https://mtpatter.github.io/bilao/notebooks/html/01-spark-streaming-kafka-avro.html)  ([ipynb](https://github.com/mtpatter/bilao/blob/master/notebooks/01-spark-streaming-kafka-avro.ipynb))
 
 ### Spark Structured Streaming
 
-* [Structured Streaming from Kafka](https://mtpatter.github.io/bilao/notebooks/html/01-spark-struct-stream-kafka.html)  ([ipynb](notebooks/01-spark-struct-stream-kafka.ipynb))
+* [Structured Streaming from Kafka](https://mtpatter.github.io/bilao/notebooks/html/01-spark-struct-stream-kafka.html)  ([ipynb](https://github.com/mtpatter/bilao/blob/master/notebooks/01-spark-struct-stream-kafka.ipynb))
