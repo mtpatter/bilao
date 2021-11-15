@@ -1,5 +1,4 @@
 FROM jupyter/all-spark-notebook
-LABEL maintainer "maria.t.patterson@gmail.com"
 ENV REFRESHED_AT 2017-04-20
 
 # Get schemas. # TODO update to checkout master when schema is updated
